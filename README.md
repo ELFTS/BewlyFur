@@ -38,10 +38,9 @@
 7. 新增web模式推荐按照点赞/播放比例过滤视频的能力（需要设置里开启）
 8. 参考了`Extension for Bilibili Player`插件的快捷键，支持了其中大部分功能的自定义快捷键。
 
-### 恢复功能
-1. 恢复了广东话翻译
-
-如果用不到本项目新增功能的，推荐使用另外一个Fork项目，会更加稳定：[BewlyBewly-AveMujica](https://github.com/VentusUta/BewlyBewly-AveMujica)
+### 更改内容
+1. logo更改为福瑞风格
+2. 修改了本地化，添加福瑞元素
 
 ## ⬇️ 安装
 
