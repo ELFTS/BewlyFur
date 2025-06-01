@@ -4,7 +4,7 @@
 
 ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/oopkfefbgecikmfbbapnlpjidoomhjpl?label=Chrome) ![Edge Addons Users](https://img.shields.io/badge/dynamic/json?label=Edge&query=%24.activeInstallCount&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Faaammfjdfifgnfnbflolojihjfhdploj) ![Firefox Users](https://img.shields.io/amo/users/bewlycat?label=Firefox)
 
-此项目基于[BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)开发，并在其基础上进行功能扩充和调整，并合并了一些其他拓展的功能。
+此项目基于[BewlyCat](https://github.com/keleus/BewlyCat)开发，添加了福瑞元素~
 
 <p align="center" style="margin-bottom: 0px !important;">
 <img width="300" alt="BewlyCat icon" src="./assets/icon-512.png"><br/>
@@ -15,7 +15,7 @@
 ## 👋 介绍
 
 > [!IMPORTANT]
-> 该项目面向我个人使用习惯修改。当然，欢迎功能建议与bug反馈。
+> 该项目面向福瑞控~，欢迎功能建议与bug反馈~ owo
 >
 > 浏览器拓展商店上架均同时提交审核，实际更新速度取决于各个商店审核速度。请勿在issue中催促审核，商店异常行为由商店导致！
 >
